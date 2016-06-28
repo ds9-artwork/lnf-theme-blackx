@@ -5,7 +5,7 @@ widgetStyle=breeze
 ColorScheme=Carbon
 
 [kdeglobals][Icons]
-Theme=netrunner-breeze
+Theme=breeze
 
 [plasmarc][Theme]
 name=BlackX
