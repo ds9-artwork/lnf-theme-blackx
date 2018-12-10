@@ -1,14 +1,14 @@
 [Desktop Entry]
-Comment=Netrunner Black X Desktop Design
-Comment[x-test]=xxNetrunner Black X Desktop Designxx
+Comment=Netrunner Default Desktop Design
+Comment[x-test]=xxNetrunner Default Desktop Designxx
 
 Encoding=UTF-8
 
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
 Keywords[x-test]=xxDesktopxx;xxWorkspacexx;xxAppearancexx;xxLook and Feelxx;xxLogoutxx;xxLockxx;xxSuspendxx;xxShutdownxx;xxHibernatexx;
 
-Name=Netrunner Black X
-Name[x-test]=xxNetrunner Black Xxx
+Name=Netrunner Default
+Name[x-test]=xxNetrunner Defaultxx
 Type=Service
 
 X-KDE-ServiceTypes=Plasma/LookAndFeel
